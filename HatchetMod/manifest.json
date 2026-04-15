@@ -1,0 +1,10 @@
+{
+  "Name": "Hatchet",
+  "Author": "HatchetMod",
+  "Version": "0.1.0",
+  "Description": "Replaces the pickaxe with a Hatchet that chops wood and breaks rocks. One tool, one slot.",
+  "UniqueID": "HatchetMod.Hatchet",
+  "EntryDll": "HatchetMod.dll",
+  "MinimumApiVersion": "4.0.0",
+  "UpdateKeys": [ "Nexus:44951" ]
+}
